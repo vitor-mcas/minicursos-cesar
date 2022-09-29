@@ -1,5 +1,5 @@
-#ifndef CANC_H
-#define CANC_H
+#ifndef PRINT_H
+#define PRINT_H
 
 #include "PrinterDriver.h"
 

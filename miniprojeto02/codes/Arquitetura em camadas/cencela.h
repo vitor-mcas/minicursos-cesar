@@ -1,5 +1,5 @@
-#ifndef CANC_H
-#define CANC_H
+#ifndef CANCELA_H
+#define CANCELA_H
 
 #include "motorDriver.h"
 
